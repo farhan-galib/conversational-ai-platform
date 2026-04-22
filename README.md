@@ -30,7 +30,7 @@ Legacy call centre operations were creating friction at every touchpoint — lon
 | Metric | Current State | Target State |
 |--------|--------------|--------------|
 | Average Handle Time | 8–12 minutes | 4–5 minutes |
-| Average customer Waiting Time | 4.2 minutes | < 30 seconds |
+| Average Customer Waiting Time | 4.2 minutes | < 30 seconds |
 | Ticket Routing Accuracy | 56% | 90% |
 | Support Availability | Business hours only | 24/7 omnichannel |
 | First Call Resolution | 30% | 65% |
