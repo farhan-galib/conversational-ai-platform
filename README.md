@@ -25,7 +25,7 @@ A **Modernizing customer support for a Telcom using AI** demonstrating end-to-en
 
 ## The Business Problem
 
-Legacy call centre operations were creating friction at every touchpoint — long hold times, fragmented agent knowledge, poor routing accuracy, and no 24/7 availability.
+Legacy call centre operations were creating friction at every touchpoint — long hold times, fragmented agent knowledge, poor routing accuracy, and no 24/7 availability which utimately results results in declining CX and increasing customer complains.
 
 | Metric | Current State | Target State |
 |--------|--------------|--------------|
