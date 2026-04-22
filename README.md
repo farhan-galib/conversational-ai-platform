@@ -31,7 +31,9 @@ Legacy call centre operations were creating friction at every touchpoint — lon
 | Support Availability | Business hours only | 24/7 omnichannel |
 | First Call Resolution | 30% | 65% |
 
-**Constraints:** No centralized data repository · Multi-layered RBAC · CRM/Middleware/Ticketing integration complexity · No 24/7 availability
+**Constraints:** 
+- **No centralized knolwedge repository** — Important data/information is been stored in a scattered manner
+- **CRM/Middleware/Ticketing integration complexity** — Hard to integrate due to complexity
 
 ---
 
