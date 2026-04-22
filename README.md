@@ -199,7 +199,7 @@ Every component is designed for reuse across teams and future AI use cases.
 ## About the Author
 
 **Farhan Noor Galib**
-Solution Architect | AI & Data Transformation Leader
+ Solution Architect | AI & Data Transformation Leader
 
 - Email: farhan.n.galib@gmail.com
 - Location: Regina, Saskatchewan, Canada
