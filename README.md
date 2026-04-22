@@ -129,12 +129,6 @@ Every component is designed for reuse across teams and future AI use cases.
 | **Data Pipelines** | ETL pipelines for structured, unstructured, and semi-structured sources |
 | **Policy Library** | Reusable Azure Policy set across all AI ecosystems |
 
-### Pod Acceleration
-- **Paved Paths** — Pre-configured reference architectures developers can clone immediately
-- **Clear Guidance** — Defined backlogs, Agile delivery coaching, proactive support
-- **Internal Tool Repo** — Eliminates duplicate work across delivery pods
-- **Evaluation-Driven Development** — Replace manual QA with automated AI evaluators
-
 ---
 
 ## Technologies
@@ -147,7 +141,7 @@ Every component is designed for reuse across teams and future AI use cases.
 
 **Platform:** Azure AI Foundry, Azure API Management, Azure Functions, Azure Logic Apps
 **Data:** Azure Data Lake Storage (ADLS), Azure AI Search, Cosmos DB, Redis
-**DevOps:** Azure DevOps, Terraform, Blue/Green Deployment, Canary Releases
+**DevOps:** Azure DevOps, Terraform
 **Security:** Azure Key Vault, Private Link, VNet, RBAC, Azure Policy
 **Governance:** Content Safety Filters, PII Redaction, Audit Logging, Human-in-the-Loop
 
