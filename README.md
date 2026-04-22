@@ -10,7 +10,7 @@
 
 ## About This Presentation
 
-A **Modernizing customer support for a Telcom using AI** demonstrating end-to-end AI solution design for a single, focused business use case: modernizing customer support operations at a Tier-1 telecom using a Conversational AI platform built on Azure AI Foundry.
+A **Modernizing customer support for a Telcom using AI** A complete enterprise-grade conversational AI platform design for telco customer support, addressing legacy pain points with RAG, Azure AI services, robust governance, and scalable delivery
 
 **Covers:** Business problem discovery → Technical AI roadmap → Enterprise solution architecture → Production deployment → Responsible AI governance → Reusability at scale
 
