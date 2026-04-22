@@ -18,8 +18,8 @@ A **Modernizing customer support for a Telcom using AI** demonstrating end-to-en
 
 **Covers:** Business problem discovery → Technical AI roadmap → Enterprise solution architecture → Production deployment → Responsible AI governance → Reusability at scale
 
-**Author:** Farhan Noor Galib | Principal Consultant, PwC | 12+ years in Enterprise AI & Digital Transformation
-**Date:** February 2026
+**Author:** Farhan Noor Galib | Data Analytics professional | 12+ years in Enterprise AI & Digital Transformation
+
 
 ---
 
