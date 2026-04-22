@@ -10,7 +10,7 @@
 
 ## About This Presentation
 
-A **Modernizing customer support for a Telcom using AI** A complete enterprise-grade conversational AI platform design for telco customer support, addressing legacy pain points with RAG, Azure AI services, robust governance, and scalable delivery
+**Modernizing customer support for a Telcom using AI** A complete enterprise-grade conversational AI platform design for telco customer support, addressing legacy pain points with RAG, Azure AI services, robust governance, and scalable delivery
 
 **Covers:** Business problem discovery → Technical AI roadmap → Enterprise solution architecture → Production deployment → Responsible AI governance → Reusability at scale
 
