@@ -58,7 +58,7 @@ A phased delivery approach to de-risk delivery and optimize for enterprise const
 
 ### Risk Mitigation
 - **Cost Gating** — Token limits, query quotas, and budget alerts prevent runaway costs
-- **Content Safety** — Data anonymization and harmful content filtering at every layer
+- **Content Safety** — Data anonymization and harmful content filtering
 
 ---
 
