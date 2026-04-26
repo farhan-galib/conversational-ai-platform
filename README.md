@@ -66,7 +66,7 @@ A phased delivery approach to de-risk delivery and optimize for enterprise const
 
 A **Conversational AI Platform** built on **Azure AI Foundry** with secure enterprise networking, RAG integration, and a modular microservice design.
 
-<img width="1057" height="596" alt="Screenshot 2026-04-21 at 3 07 10 PM" src="https://github.com/user-attachments/assets/89483b3b-9d7d-438d-a2c0-3ece4528a4b5" />
+<img width="1057" height="596" alt="architecture" src="https://github.com/user-attachments/assets/89483b3b-9d7d-438d-a2c0-3ece4528a4b5" />
 
 ---
 
