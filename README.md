@@ -32,7 +32,7 @@ Legacy call centre operations were creating friction at every touchpoint — lon
 | First Call Resolution | 30% | 65% |
 
 **Constraints:** 
-- **No centralized knolwedge repository** — Important data/information is being stored in a scattered manner
+- **No centralized knowledge repository** — Important data/information is being stored in a scattered manner
 - **CRM/Middleware/Ticketing integration complexity** — Hard to integrate due to complexity
 
 ---
