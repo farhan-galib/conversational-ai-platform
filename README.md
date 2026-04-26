@@ -124,8 +124,7 @@ Every component is designed for reuse across teams and future AI use cases.
 |-----------|-------------|
 | **Standard RAG Engine** | Chunking strategy, embedding model, vector store interface, retrieval logic |
 | **Reusable Services** | Agent capabilities exposed as APIs for future use cases |
-| **IaC Modules** | Terraform/Bicep templates — environment setup: days → minutes |
-| **Connectors** | CRM, Ticketing, and Knowledge Base connectors |
+| **IaC Modules** | Terraform templates — environment setup: days → minutes |
 | **Data Pipelines** | ETL pipelines for structured, unstructured, and semi-structured sources |
 | **Policy Library** | Reusable Azure Policy set across all AI ecosystems |
 
