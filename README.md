@@ -28,7 +28,6 @@
 This repository contains the presentation materials and architecture blueprints for a production-grade Conversational AI platform design — it is not a deployable codebase. To explore the full solution:
 
 - 📊 [View the live slides](https://farhan-galib.github.io/enterprise-ai-solutions)
-- 📄 [Download the PDF](./Enterprise_AI_Solutions_Farhan_Galib.pdf)
 - 📄 [Download the PDF](./slides/Conversatioal AI platform.pdf)
 - 💬 [Connect with the author on LinkedIn](https://www.linkedin.com/in/farhan-noor-galib-5a38a018/)
 
