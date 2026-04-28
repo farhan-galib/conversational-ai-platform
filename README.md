@@ -39,7 +39,7 @@ A complete enterprise-grade Conversational AI platform design for Telco customer
 
 **Covers:** Business problem discovery → Technical AI roadmap → Enterprise solution architecture → Production deployment → Responsible AI governance → Reusability at scale
 
-**Author:** Farhan Noor Galib | Solution Architect | 12+ years in Enterprise AI & Digital Transformation
+**Author:** Farhan Noor Galib | Solution Architect | 12+ years in Data Analytics, Enterprise AI & Digital Transformation
 
 ---
 
@@ -186,7 +186,7 @@ Every component is designed for reuse across teams and future AI use cases.
 ## About the Author
 
 **Farhan Noor Galib**  
-Solution Architect | AI & Data Transformation Leader
+Solution Architect | Data Analytics, AI & Data Transformation Leader
 
 - 📧 Email: [farhan.n.galib@gmail.com](mailto:farhan.n.galib@gmail.com)
 - 📍 Location: Regina, Saskatchewan, Canada
