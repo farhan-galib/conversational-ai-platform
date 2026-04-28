@@ -59,10 +59,7 @@ Legacy call centre operations were creating friction at every touchpoint — lon
 
 - **No centralized knowledge repository** — Critical information is stored in silos across teams, making it difficult to build a reliable, unified knowledge base for effective RAG grounding
 - **CRM/Middleware/Ticketing integration complexity** — Legacy systems lack modern REST APIs, requiring custom middleware adapters and significantly increasing integration risk and delivery timelines
-- **Legacy system dependency** — Core platforms were not designed for real-time AI integration, limiting throughput and introducing additional latency into automated customer workflows
 - **Data quality & readiness** — Historical call transcripts, support tickets, and knowledge base articles are inconsistently structured, incomplete, or outdated, requiring significant cleansing before they can be reliably ingested into the RAG pipeline
-- **Regulatory compliance** — Telco operations are subject to strict data privacy regulations (GDPR, PIPEDA) requiring all customer data to remain within designated residency zones, restricting certain cloud deployment options and mandating comprehensive audit trails
-- **Agent adoption risk** — Human agents accustomed to legacy workflows may resist AI-assisted tooling, requiring a structured change management program alongside technical delivery to ensure successful adoption
 
 ---
 
