@@ -29,6 +29,7 @@ This repository contains the presentation materials and architecture blueprints 
 
 - 📊 [View the live slides](https://farhan-galib.github.io/enterprise-ai-solutions)
 - 📄 [Download the PDF](./Enterprise_AI_Solutions_Farhan_Galib.pdf)
+- 📄 [Download the PDF](./slides/Conversatioal AI platform.pdf)
 - 💬 [Connect with the author on LinkedIn](https://www.linkedin.com/in/farhan-noor-galib-5a38a018/)
 
 ---
