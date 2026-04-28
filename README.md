@@ -25,7 +25,7 @@
 
 ## How to Use This Repository
 
-This repository contains the presentation materials and architecture blueprints for a production-grade Conversational AI platform design. It is not a deployable codebase. To explore the full solution:
+This repository contains the presentation materials and architecture blueprints for a production-grade Conversational AI platform design. It serves as a strategic reference blueprint capturing the end-to-end thinking, decisions and architecture for teams looking to modernise customer support with AI. To explore the full solution:
 
 - 📊 [View the live slides](https://farhan-galib.github.io/enterprise-ai-solutions)
 - 📄 [Download the PDF](./slides/Conversational%20AI%20platform.pdf)
