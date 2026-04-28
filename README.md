@@ -3,7 +3,7 @@
 > **A production-ready blueprint for designing and deploying a Conversational AI platform that transforms legacy call centre operations into an intelligent, omnichannel support experience using Agentic AI and Retrieval-Augmented Generation (RAG).**
 
 [![Presentation](https://img.shields.io/badge/View%20Presentation-Live%20Slides-2E75B6?style=for-the-badge&logo=html5)](https://farhan-galib.github.io/enterprise-ai-solutions)
-[![PDF](https://img.shields.io/badge/Download-PDF%20Version-1F4E79?style=for-the-badge&logo=adobeacrobatreader)](./Enterprise_AI_Solutions_Farhan_Galib.pdf)
+[![PDF](https://img.shields.io/badge/Download-PDF%20Version-1F4E79?style=for-the-badge&logo=adobeacrobatreader)](./slides/Conversatioal%20AI%20platform.pdf)
 [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/farhan-noor-galib-5a38a018/)
 
 ---
