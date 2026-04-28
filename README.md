@@ -17,7 +17,7 @@
 - [Solution Architecture](#solution-architecture)
 - [Production Deployment](#production-deployment)
 - [Responsible AI & Compliance](#responsible-ai--compliance)
-- [Reusability & Scale](#reusability--scale----build-once-reuse-everywhere)
+- [Reusability & Scale](#reusability--scale)
 - [Technologies](#technologies)
 - [About the Author](#about-the-author)
 
@@ -151,7 +151,7 @@ The architecture diagram above illustrates the end-to-end platform: user request
 
 ---
 
-## Reusability & Scale — "Build Once, Reuse Everywhere"
+## Reusability & Scale
 
 Every component is designed for reuse across teams and future AI use cases.
 
