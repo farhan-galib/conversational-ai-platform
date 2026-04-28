@@ -99,7 +99,7 @@ A **Conversational AI Platform** built on **Azure AI Foundry** with secure enter
 <img width="1057" height="596" alt="Conversational AI Platform Architecture on Azure AI Foundry" src="https://github.com/user-attachments/assets/89483b3b-9d7d-438d-a2c0-3ece4528a4b5" />
 
 
-The architecture diagram above illustrates the end-to-end platform: user requests flow through Azure API Management into a microservice orchestration layer, which coordinates the RAG engine (Azure AI Search + ADLS), the LLM (Azure OpenAI), and downstream CRM/ticketing integrations — all within a private VNet with enforced data residency boundaries.
+The architecture diagram above illustrates the end-to-end platform: user requests flow through Azure API Management into a microservice orchestration layer, which coordinates the RAG engine, the LLM and downstream CRM/ticketing integrations — all within a private VNet with enforced data residency boundaries.
 
 ---
 
