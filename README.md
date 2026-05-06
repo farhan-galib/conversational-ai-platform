@@ -69,9 +69,9 @@ A phased delivery approach to de-risk delivery and optimise for enterprise const
 
 | Phase | Focus | Activities |
 |-------|-------|-----------|
-| **1 — Discovery** | Understand the problem | Workshops with business, agents, IT & compliance · Data analysis (tickets, complaints, conversations) · KPI review |
-| **2 — Pilot** | Build & validate | Develop MVP · Internal rollout · Feedback loop iteration |
-| **3 — Production** | Scale & sustain | Full rollout · Performance optimisation · Drift monitoring |
+| **Discovery** | Understand the problem | Workshops with business, agents, IT & compliance · Data analysis (tickets, complaints, conversations) · KPI review |
+| **Pilot** | Build & validate | Develop MVP · Internal rollout · Feedback loop iteration |
+| **Production** | Scale & sustain | Full rollout · Performance optimisation · Drift monitoring |
 
 ### Strategic Decisions
 
